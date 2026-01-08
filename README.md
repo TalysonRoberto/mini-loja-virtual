@@ -1,5 +1,10 @@
 ## 🛒 Mini Loja Virtual - React + PrimeReact
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-20232A?style=for-the-badge&logo=primereact&logoColor=white)
+![PrimeFlex](https://img.shields.io/badge/PrimeFlex-20232A?style=for-the-badge&logo=css3&logoColor=orange)
+
 Uma aplicação de vitrine virtual moderna e responsiva desenvolvida em React, consumindo dados da **FakeStoreAPI**. O projeto utiliza a biblioteca de componentes **PrimeReact** e o motor de utilitários CSS **PrimeFlex** para um design limpo e eficiente.
 
 ---
